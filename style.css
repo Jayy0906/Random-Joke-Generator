@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  #joke-container {
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 8px;
+  }
+  
+  #joke-text {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #343a40;
+  }
+  
+  #joke-btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+  
